@@ -2,5 +2,3 @@
 
 My Personal Website!
 
-
-dat is cool
